@@ -1,0 +1,118 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 1200
+>>
+stream
+BT
+/F1 16 Tf
+50 750 Td
+(FIDEL OCHIENG OGOLA) Tj
+0 -30 Td
+/F1 12 Tf
+(Software Developer | Data Science Enthusiast) Tj
+0 -40 Td
+(Email: fidel.ogola@email.com) Tj
+0 -20 Td
+(Phone: +254 XXX XXX XXX) Tj
+0 -20 Td
+(LinkedIn: linkedin.com/in/fidel-ogola) Tj
+0 -40 Td
+/F1 14 Tf
+(EDUCATION) Tj
+0 -25 Td
+/F1 12 Tf
+(Power Learn Project Academy - Software Development Track) Tj
+0 -20 Td
+(July 2025 Cohort) Tj
+0 -40 Td
+/F1 14 Tf
+(TECHNICAL SKILLS) Tj
+0 -25 Td
+/F1 12 Tf
+(• HTML5 & CSS3) Tj
+0 -20 Td
+(• JavaScript \(Learning\)) Tj
+0 -20 Td
+(• Python \(Learning\)) Tj
+0 -20 Td
+(• Web Design & UI/UX) Tj
+0 -20 Td
+(• Data Analysis) Tj
+0 -40 Td
+/F1 14 Tf
+(PROJECTS) Tj
+0 -25 Td
+/F1 12 Tf
+(TechTide Agency Website) Tj
+0 -20 Td
+(Smart House Finder App) Tj
+0 -20 Td
+(AI Mental Health Assistant) Tj
+0 -40 Td
+/F1 14 Tf
+(INTERESTS) Tj
+0 -25 Td
+/F1 12 Tf
+(• Web Development & UI/UX Design) Tj
+0 -20 Td
+(• Artificial Intelligence & Automation) Tj
+0 -20 Td
+(• Building Tech Solutions for Africa) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000053 00000 n 
+0000000110 00000 n 
+0000000251 00000 n 
+0000001503 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+1571
+%%EOF
